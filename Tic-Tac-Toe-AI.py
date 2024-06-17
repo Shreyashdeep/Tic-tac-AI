@@ -584,7 +584,7 @@ class TIC_TAC_TOE_AI:
             return 0
         else:
             return 1
-
+# some changes done
 
 if __name__ == "__main__":
     window = Tk()
